@@ -1,5 +1,5 @@
 # Dayi-Skin
-元書輸入法-大易鍵盤皮膚 
+元書輸入法-大易鍵盤皮膚</br>
 灰色</br>
 <img src="https://github.com/Hans52088/Dayi-Skin/blob/main/Dayi%20skin(original).png" width="50%"></br>
 綠色</br>
